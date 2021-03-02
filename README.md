@@ -1,22 +1,22 @@
-# Python Teacher UI Version-BETA-0.1.0
+[![Run on Repl.it](https://camo.githubusercontent.com/ee22c1d26ef748a961ce08234e36d71dfc1b61867ad57e5262e0cfce7dbdadb1/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3737373237323534303633363131393034312f3830333332393238333339363733303937302f4461625f5250475f322e706e673f77696474683d333639266865696768743d333639)](https://camo.githubusercontent.com/ee22c1d26ef748a961ce08234e36d71dfc1b61867ad57e5262e0cfce7dbdadb1/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3737373237323534303633363131393034312f3830333332393238333339363733303937302f4461625f5250475f322e706e673f77696474683d333639266865696768743d333639)
+# DabRPG-BETA-0.4.0
+#### This Script can only be run on https://repl.it due to it using REPL DB
+[![Run on Repl.it](https://repl.it/badge/github/Dabbin-Gamings-Dev-Team/DabRPG)](https://repl.it/github/Dabbin-Gamings-Dev-Team/DabRPG)
+### Version BETA 0.4.0
+# Database: Replit DB
+## Packages used
 
-[![Run on Repl.it](https://repl.it/badge/github/waarongoo/Python-Teacher-UI-Version)](https://repl.it/github/waarongoo/Python-Teacher-UI-Version)
-### Version BETA 0.1.0
-
-## Packages needed for the project to fully work 
 ```python
-from tkinter import messagebox
-from tkinter import *
-import tkinter.messagebox as tm
-import tkinter as tk
-from tkinter import simpledialog
-import turtle
+import time
+from termcolor import colored
+import sys
+import replitdb
 ```
 
-## Copyright/Legal Info
+## License
 # MIT License
 
-#### Copyright (c) 2021 awdev a.k.a aww7
+#### Copyright (c) 2021 DabbinGaming/awdev
 
 #### Permission is hereby granted, free of charge, to any person obtaining a copy
 #### of this software and associated documentation files (the "Software"), to deal
